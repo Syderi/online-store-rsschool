@@ -1,3 +1,3 @@
 ## RSSchool Team Project
 ## Online store
-## Link: [gentle-bombolone-146ea8.netlify.app/](https://gentle-bombolone-146ea8.netlify.app/)
+## Link: [https://genuine-puffpuff-68a349.netlify.app/](https://genuine-puffpuff-68a349.netlify.app/)
